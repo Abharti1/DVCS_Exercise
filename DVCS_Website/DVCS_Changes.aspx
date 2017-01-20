@@ -12,6 +12,7 @@
 
         <asp:CheckBox ID="CheckBox1" runat="server" />
         <asp:CheckBoxList ID="CheckBoxList1" runat="server"></asp:CheckBoxList>
+        <asp:DropDownList ID="DropDownList1" runat="server"></asp:DropDownList>
 
     </div>
     </form>
